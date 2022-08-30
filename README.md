@@ -4,7 +4,7 @@
 
 Hello!  
 My program can be used to sort number arrays that consists of integers.  
-I made this project to test my GUI skills and my python programming in general. I was focusing on making the cleanest possible code while trying my best to make sure program will work as indented.  
+I made this project to test my GUI skills and my python programming in general. I was focused on making the cleanest possible code while trying my best to make sure program will work as indented.  
 In future I may write a OOP based version of app but it may take some time before it happens.
 
 ### How to use program
